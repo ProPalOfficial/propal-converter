@@ -1,4 +1,4 @@
-# propal-converter
+# Propal-Converter
 Count the number of conversions based on the provided formula.
 
 ## Installation
